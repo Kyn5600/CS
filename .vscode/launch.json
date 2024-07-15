@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "lab4",
+      "request": "launch",
+      "mainClass": "COSC.Lab4.lab4",
+      "projectName": "CS_5a2f5bc4"
+    },
+    {
+      "type": "java",
       "name": "Lab3_2",
       "request": "launch",
       "mainClass": "Lab3_2",
